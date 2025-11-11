@@ -45,14 +45,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
-* John Lof Leadership Academy
+* [John Lof Leadership Academy](https://jlla.engr.uconn.edu/)
   * Social Media Director (June 2025--May 2026)
+  * John Lof Scholar (September 2024--May 2026)
 
