@@ -23,7 +23,7 @@ repository               : "tingkai-li/tingkai-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "Profile.jpeg"
   name             : "Tingkai Li (李霆铠)"
   pronouns         : "he/him"  
   bio              : "Ph.D. student in Mechanical Engineering at University of Connecticut"
