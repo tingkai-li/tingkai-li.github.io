@@ -12,33 +12,26 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Connecticut, 2026 (expected)
-* B.S. in Mechanical Engineering, summa cum laude, Iowa State University, 2012
+* B.S. in Mechanical Engineering, summa cum laude, Iowa State University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2025 -- August 2025: Engineering Development Intern
+  * The MathWorks, Inc.
+  * Duties includes: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 -- August 2024: Engineering Development Intern
+  * The MathWorks, Inc.
+  * Duties included: 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -60,4 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* John Lof Leadership Academy
+  * Social Media Director (June 2025--May 2026)
+
