@@ -55,9 +55,9 @@ Talks
 Service and leadership
 ======
 * John Lof Leadership Academy
-  * [Website](https://jlla.engr.uconn.edu/)|[Personal Profile](https://jlla.engr.uconn.edu/meet-tingkai-li/)
+  * [Website](https://jlla.engr.uconn.edu/) & [Personal Profile](https://jlla.engr.uconn.edu/meet-tingkai-li/)
   * Social Media Director (June 2025--May 2026)
   * John Lof Scholar (September 2024--May 2026)
-* Mechanical Engineering Graduate Student Association
+* Mechanical Engineering Graduate Student Association at UConn
   * Social Media Director (November 2024--August 2025)
 
