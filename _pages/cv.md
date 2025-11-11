@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -51,9 +51,13 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
+
 Service and leadership
 ======
-* [John Lof Leadership Academy](https://jlla.engr.uconn.edu/)
+* John Lof Leadership Academy
+  * [Website](https://jlla.engr.uconn.edu/)|[Personal Profile](https://jlla.engr.uconn.edu/meet-tingkai-li/)
   * Social Media Director (June 2025--May 2026)
   * John Lof Scholar (September 2024--May 2026)
+* Mechanical Engineering Graduate Student Association
+  * Social Media Director (November 2024--August 2025)
 
