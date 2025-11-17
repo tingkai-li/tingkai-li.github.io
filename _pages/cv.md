@@ -17,13 +17,21 @@ Education
 Work experience
 ======
 * June 2025 -- August 2025: Engineering Development Intern
-  * The MathWorks, Inc.
-  * Duties includes: 
+  * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
+  * Duties included: 
+    * Developed customer-facing functions for battery data analysis and feature engineering, targeted for future release. 
+    * Analyzed use cases, pain points, design alternatives, and functional requirements for new API design.
+    * Benchmarked functions to extract predictive features from battery electrochemical impedance data.
+    * Prototyped Python-MATLAB workflows for anomaly detection algorithms, accelerating internal benchmarking.
 
 * May 2024 -- August 2024: Engineering Development Intern
-  * The MathWorks, Inc.
+  * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
   * Duties included: 
-
+    * Built a deep learning model to identify current pulses in battery data, improving accuracy over baselines.
+    * Prototyped functions for feature extraction from Li-ion battery current pulses. 
+    * Authored [an example on pulse feature extraction](https://www.mathworks.com/help/predmaint/ug/automatic-data-segmentation-and-feature-extraction-for-reference-performance-battery-test.html), integrated into MATLAB’s Predictive Maintenance Toolbox.
+    * Benchmarked ensemble learning algorithms for battery state-of-health estimation.
+    
 <!-- Skills
 ======
 * Skill 1
