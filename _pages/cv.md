@@ -54,10 +54,21 @@ Talks
 
 Service and leadership
 ======
-* John Lof Leadership Academy
-  * [Website](https://jlla.engr.uconn.edu/) & [Personal Profile](https://jlla.engr.uconn.edu/meet-tingkai-li/)
-  * Social Media Director (June 2025--May 2026)
-  * John Lof Scholar (September 2024--May 2026)
-* Mechanical Engineering Graduate Student Association at UConn
-  * Social Media Director (November 2024--August 2025)
+* Reviewer (November 2022--Present) 
+  * [Joule](https://www.cell.com/joule/home)
+  * [Nature Communications](https://www.nature.com/ncomms/)
+  * [IEEE Transactions on Industrial Informatics](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)
+  * [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics)
+  * [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)
+  * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
+  * [Sustainable Energy & Fuels](https://pubs.rsc.org/en/journals/journalissues/se#!recentarticles&adv)
+  * [Journal of Mechanical Design](https://asmedigitalcollection.asme.org/mechanicaldesign)
+  * [Future Batteries](https://www.sciencedirect.com/journal/future-batteries)
+
+* Social Media Director (June 2025--May 2026), John Lof Scholar (September 2024--May 2026):  
+  * [John Lof Leadership Academy](https://jlla.engr.uconn.edu/) 
+  * [Personal JLLA Profile](https://jlla.engr.uconn.edu/meet-tingkai-li/)
+ 
+* Social Media Director (November 2024--August 2025) 
+  *  [Mechanical Engineering Graduate Student Association at UConn](https://www.linkedin.com/company/megsa-uconn/)
 
