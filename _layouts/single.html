@@ -47,6 +47,15 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.collection == 'publications' and page.header.teaser %}
+          {% if page.header.teaser contains "://" %}
+            {% capture teaser_path %}{{ page.header.teaser }}{% endcapture %}
+          {% else %}
+            {% capture teaser_path %}{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+          {% endif %}
+          <p><img src="{{ teaser_path }}" alt="Graphical abstract for {{ page.title | markdownify | strip_html | strip_newlines | escape_once }}" style="max-width: 100%; height: auto; border-radius: 4px;"></p>
+        {% endif %}
+
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}

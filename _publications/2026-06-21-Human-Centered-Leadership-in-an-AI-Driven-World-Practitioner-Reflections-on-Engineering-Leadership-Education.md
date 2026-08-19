@@ -9,5 +9,4 @@ paperurl: 'https://peer.asee.org/human-centered-leadership-in-an-ai-driven-world
 citation: ' Emily Moore,  Stacie Edington,  Beverly Kris Jaeger-Helton,  Kenneth W Lamb,  James N Magarian,  Cindy Rottmann,  Amin Azad,  Meagan R Kendall,  Tingkai Li,  Monica Pheifer,  Kim Graves Wolfinbarger,  Elika Shams,  Michael P Manning, &quot;Human-Centered Leadership in an AI-Driven World: Practitioner Reflections on Engineering Leadership Education.&quot; 2026 ASEE Annual Conference &amp; Exposition, 2026.'
 header:
   teaser: 'publications/2026-06-21-Human-Centered-Leadership-in-an-AI-Driven-World-Practitioner-Reflections-on-Engineering-Leadership-Education.png'
-  image: 'publications/2026-06-21-Human-Centered-Leadership-in-an-AI-Driven-World-Practitioner-Reflections-on-Engineering-Leadership-Education.png'
 ---
