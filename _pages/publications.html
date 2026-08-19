@@ -11,25 +11,53 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .pub-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0 2em;
+  }
+  @media (min-width: 600px) {
+    .pub-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  /* override the theme's float-based grid so it doesn't fight with .pub-grid */
+  .pub-grid .grid__item {
+    float: none;
+    width: auto;
+    margin: 0 0 2em;
+  }
+</style>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+    {% assign has_posts = false %}
+    {% for post in site.publications %}
+      {% if post.category == category[0] %}
+        {% assign has_posts = true %}
+        {% break %}
       {% endif %}
-      {% unless title_shown %}
-        <h2 style="clear: both;">{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html type="grid" %}
     {% endfor %}
+    {% if has_posts %}
+      <h2 style="clear: both;">{{ category[1].title }}</h2><hr />
+      <div class="pub-grid">
+        {% for post in site.publications reversed %}
+          {% if post.category != category[0] %}
+            {% continue %}
+          {% endif %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    {% endif %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
+  <div class="pub-grid">
+    {% for post in site.publications reversed %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+  </div>
 {% endif %}
 
 
