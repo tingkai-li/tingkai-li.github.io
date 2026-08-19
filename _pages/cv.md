@@ -46,7 +46,7 @@ redirect_from:
   * AST SpaceMobile, Homestead, FL, USA
 
 * June 2025 -- August 2025: **Engineering Development Intern**
-  * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
+  * MathWorks, Natick, MA, USA
   * Duties included: 
     * Developed customer-facing functions for battery data analysis and feature engineering, targeted for future release. 
     * Analyzed use cases, pain points, design alternatives, and functional requirements for new API design.
@@ -54,7 +54,7 @@ redirect_from:
     * Prototyped Python-MATLAB workflows for anomaly detection algorithms, accelerating internal benchmarking.
 
 * May 2024 -- August 2024: **Engineering Development Intern**
-  * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
+  * MathWorks, Natick, MA, USA
   * Duties included: 
     * Built a deep learning model to identify current pulses in battery data, improving accuracy over baselines.
     * Prototyped functions for feature extraction from Li-ion battery current pulses. 
