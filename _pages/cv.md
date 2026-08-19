@@ -9,17 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<style>
+  .cv-entry-list {
+    list-style: none;
+    margin: 0.5em 0 0;
+    padding-left: 0;
+  }
+  .cv-entry {
+    padding: 0.9em 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+  .cv-entry:first-child {
+    padding-top: 0;
+  }
+  .cv-entry:last-child {
+    border-bottom: none;
+  }
+  .cv-entry__title {
+    margin: 0 0 0.3em;
+    font-size: 1em;
+  }
+  .cv-entry__meta {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+</style>
+
+## Education
 * Ph.D. in Mechanical Engineering, University of Connecticut, 2026
 * B.S. in Mechanical Engineering, summa cum laude, Iowa State University, 2021
 
-Work experience
-======
-* July 2026 -- Present: Senior Battery Engineer
+## Work experience
+* July 2026 -- Present: **Senior Battery Engineer**
   * AST SpaceMobile, Homestead, FL, USA
 
-* June 2025 -- August 2025: Engineering Development Intern
+* June 2025 -- August 2025: **Engineering Development Intern**
   * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
   * Duties included: 
     * Developed customer-facing functions for battery data analysis and feature engineering, targeted for future release. 
@@ -27,14 +53,14 @@ Work experience
     * Benchmarked functions to extract predictive features from battery electrochemical impedance data.
     * Prototyped Python-MATLAB workflows for anomaly detection algorithms, accelerating internal benchmarking.
 
-* May 2024 -- August 2024: Engineering Development Intern
+* May 2024 -- August 2024: **Engineering Development Intern**
   * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
   * Duties included: 
     * Built a deep learning model to identify current pulses in battery data, improving accuracy over baselines.
     * Prototyped functions for feature extraction from Li-ion battery current pulses. 
     * Authored [an example on pulse feature extraction](https://www.mathworks.com/help/predmaint/ug/automatic-data-segmentation-and-feature-extraction-for-reference-performance-battery-test.html), integrated into MATLAB’s Predictive Maintenance Toolbox.
     * Benchmarked ensemble learning algorithms for battery state-of-health estimation.
-    
+
 <!-- Skills
 ======
 * Skill 1
@@ -44,18 +70,16 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+## Publications
+<ul class="cv-entry-list">{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks
+<ul class="cv-entry-list">{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -63,8 +87,7 @@ Talks
   {% endfor %}</ul>
    -->
 
-Service and leadership
-======
+## Service and leadership
 * Reviewer (November 2022--Present) 
   * [Joule](https://www.cell.com/joule/home)
   * [Nature Communications](https://www.nature.com/ncomms/)
