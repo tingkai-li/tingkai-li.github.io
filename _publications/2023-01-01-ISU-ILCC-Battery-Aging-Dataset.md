@@ -2,7 +2,6 @@
 title: "ISU-ILCC Battery Aging Dataset"
 collection: publications
 permalink: /publication/2023-01-01-ISU-ILCC-Battery-Aging-Dataset
-excerpt: 'Artwork Size: 11186085527 Bytes Pages: 11186085527 Bytes'
 category: datasets
 date: 2023-01-01
 venue: 'Iowa State University Dataset'
