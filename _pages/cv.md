@@ -35,6 +35,15 @@ redirect_from:
     font-size: 0.9em;
     line-height: 1.5;
   }
+  .archive a,
+  .archive a:visited {
+    color: var(--global-text-color);
+    text-decoration: underline;
+  }
+  .archive a:hover {
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
 </style>
 
 ## Education
