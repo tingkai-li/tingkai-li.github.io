@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Mechanical Engineering at the **University of Connecticut**, where I work in the [**Reliability Engineering and Informatics Laboratory**](https://chaohulab.engr.uconn.edu). My research focuses on **data-driven diagnostics and lifetime prediction for lithium-ion batteries**, combining physics-based modeling with machine learning.
+I am a **Senior Battery Engineer** at [**AST SpaceMobile**](https://ast-science.com), where I work on the batteries that power the company's space-based cellular broadband satellites.
 
-My work aims to improve how battery degradation is diagnosed and predicted using early-cycle data. I develop models that estimate battery capacity trajectories, identify degradation mechanisms, and quantify uncertainty in predictions.
+I recently completed my Ph.D. in Mechanical Engineering at the **University of Connecticut**, where I worked in the [**Reliability Engineering and Informatics Laboratory**](https://chaohulab.engr.uconn.edu). My doctoral research focused on **data-driven diagnostics and early prognostics for lithium-ion batteries**, combining physics-based modeling with machine learning to estimate capacity trajectories, identify degradation mechanisms, and quantify uncertainty in predictions from early-cycle data.
 
 ### Research Interests
 
@@ -18,9 +18,13 @@ My work aims to improve how battery degradation is diagnosed and predicted using
 - Data-driven reliability engineering  
 - Optimization and parameter estimation  
 
-In addition to modeling work, I design and conduct **battery aging experiments** and contribute **open datasets and code** for the research community.
+Throughout my graduate work, I designed and conducted **battery aging experiments** and contributed **open datasets and code** for the research community, and I continue to review for battery- and reliability-focused journals.
 
 I previously interned at **MathWorks**, where I developed battery feature-extraction workflows, anomaly detection prototypes, and machine learning pipelines for battery analytics.
+
+### Engineering Leadership Development
+
+Alongside my technical work, I'm passionate about **engineering leadership development**. As a [John Lof Leadership Academy](https://jlla.engr.uconn.edu/) Scholar and Social Media Director, and Social Media Director for the Mechanical Engineering Graduate Student Association at UConn, I helped build community and leadership programming for fellow engineering graduate students. This interest carries into my research on **engineering education**, including recent work on student-led leadership development and human-centered leadership in an AI-driven world, presented at the ASEE Annual Conference & Exposition.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
