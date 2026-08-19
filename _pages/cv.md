@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanical Engineering, University of Connecticut, 2026 (expected)
+* Ph.D. in Mechanical Engineering, University of Connecticut, 2026
 * B.S. in Mechanical Engineering, summa cum laude, Iowa State University, 2021
 
 Work experience
 ======
+* July 2026 -- Present: Senior Battery Engineer
+  * AST SpaceMobile, Homestead, FL, USA
+
 * June 2025 -- August 2025: Engineering Development Intern
   * [The MathWorks, Inc.](https://www.mathworks.com), Natick, MA, USA
   * Duties included: 
